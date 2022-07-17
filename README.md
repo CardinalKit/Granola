@@ -1,4 +1,4 @@
-# Granola
+# Granola (CardinalKit Version)
 
 _*A healthful serializer for your HealthKit data.*_
 
@@ -180,3 +180,4 @@ Brent Hargrave ([@brenthargrave](http://twitter.com/brenthargrave))
 Chris Schaefbauer (chris.schaefbauer@openmhealth.org)  
 Emerson Farrugia (emerson@openmhealth.org)  
 
+Modified by Vishnu Ravi (@vishnuravi) and Esteban Ramos (@EstebanRamosFractal) for the CardinalKit framework.
